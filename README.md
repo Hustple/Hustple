@@ -21,7 +21,7 @@ I bridge the gap between cutting-edge AI research and secure, stable software en
 * **The Stack:** Groq LLaMA 3.1, local OpenAI Whisper (zero inference cost), gTTS, Pydantic, Tenacity.
 * **Production Engineering:** Built with an explicit custom exception hierarchy, automated regex constraints blocking injection/XSS attempts, and structured logging. Implemented modular data mocking allowing an instant environment-variable toggle to live Stripe/Gmail production tools.
 
-#### 📈 [Agentic RAG Optimization Pipeline (B.Tech Research)](https://github.com/Hustple)
+#### 📈 [Agentic RAG Optimization Pipeline (B.Tech Research)](https://github.com/Hustple/Thesis/blob/main/README.md#factuality%E2%80%93helpfulness-trade-off)
 *An empirical research project proving hallucination reduction via local, iterative self-critique loops.*
 * **The Stack:** Python, LangChain, Ollama (Llama 3.2 3B), ChromaDB, RAGAS Framework.
 * **The Core Insight:** Engineered a structured Natural Language Inference (NLI) claim-verification backend running entirely offline on consumer hardware. Rigorously evaluated 300 generated answers against the **FinanceBench** benchmark, mathematically validating a **4.2% relative gain in RAGAS Faithfulness** and completely eliminating cross-document entity contamination.
