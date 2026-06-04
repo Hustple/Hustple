@@ -26,7 +26,7 @@ I bridge the gap between cutting-edge AI research and secure, stable software en
 * **The Stack:** Python, LangChain, Ollama (Llama 3.2 3B), ChromaDB, RAGAS Framework.
 * **The Core Insight:** Engineered a structured Natural Language Inference (NLI) claim-verification backend running entirely offline on consumer hardware. Rigorously evaluated 300 generated answers against the **FinanceBench** benchmark, mathematically validating a **4.2% relative gain in RAGAS Faithfulness** and completely eliminating cross-document entity contamination.
 
-#### 🐝 [Open-Source AI Framework Contributor (Model Context Protocol)](https://github.com/Hustple)
+#### 🐝 [Open-Source AI Framework Contributor (Model Context Protocol)]([https://github.com/Hustple](https://github.com/aden-hive/hive/pull/5136)
 * **The Work:** Engineered production-ready Brevo API integrations for a high-scale open-source AI agent framework.
 * **The Engineering:** Penned 34 asynchronous python unit tests covering success paths, schema validations, network backoff timeouts, and API authentication exceptions to secure framework stability.
 
