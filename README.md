@@ -1,6 +1,6 @@
 # 👋 Hey — I’m Utkarsh Singh
 
-**AI Engineer specializing in local LLMOps, multi-agent orchestration, and production RAG architectures.**
+**AI Engineer specializing in local LLMOps and production RAG architectures.**
 
 I bridge the gap between cutting-edge AI research and secure, stable software engineering. I build autonomous, tool-capable systems that focus deeply on production-grade resilience, strict input validation, and zero-hallucination constraints. 
 
