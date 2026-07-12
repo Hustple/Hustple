@@ -10,8 +10,6 @@ I bridge the gap between cutting-edge AI research and secure, stable software en
 
 * **Multi-Agent Orchestration & Tool-Use:** Developing lightweight, secure execution environments utilizing the Model Context Protocol (MCP) to connect local and cloud LLMs securely to live system tools (Stripe, Gmail, CRMs).
 * **Local & Privacy-Preserving AI:** Architecting resource-optimized inference pipelines on consumer edge hardware to process high-stakes data without external cloud API dependencies.
-* **Open to Remote Engineering Roles & Contractor Collaborations.**
-
 ---
 
 ### 🛠️ Featured Open-Source & R&D Work
